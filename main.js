@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Verão e Outono",
-                afirmacao: "Afirmação 1.1"
+                afirmacao: "Você é uma pessoa mais quente logo sua cor é vermelho"
             },
             {
                 texto: "Inverno e Primavera",
-                afirmacao: "Afirmação 1.2"
+                afirmacao: "Você é uma pessoa mais fri logo sua cor é azul claro"
             }
         ]
     },

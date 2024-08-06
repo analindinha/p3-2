@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Verão e Outono",
-                afirmacao: "Você é uma pessoa mais exolosiva que tende a demontrar seus sentimentoscom facilidade "
+                afirmacao: "Você é uma pessoa mais aberta  que tende a demontrar seus sentimentos com facilidade e respeito "
             },
             {
                 texto: "Inverno e Primavera",
@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Doce",
-                afirmacao: ""
+                afirmacao: "Tem um paladar um pouco mais infantil, junto com a mentalidade"
             }
         ]
     },
@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "A razão ",
-                afirmacao: "Quer estar certo acima de tudo "
+                afirmacao: "já que quer estar certo acima de tudo "
             }
         ]
     },
@@ -48,25 +48,25 @@ const perguntas = [
         enunciado: "Prefere sai com roupas coloidas ou mais básicas?",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "Básicas",
+                afirmacao: "Sabe que não precisa se amostrar"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: " Coloridas",
+                afirmacao: "gosta de ficar se aparecendo para os outros"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "preferesair ou ficar em casa ?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "Ficar em casa ",
+                afirmacao: "logo vc é uma pessoa mais calma"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "Sair de casa ",
+                afirmacao: "Logo vc é uma pessoa mais explosiva"
             }
         ]
     },

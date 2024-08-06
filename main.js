@@ -19,27 +19,27 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Você prefere doce ou salgado?",
         alternativas: [
             {
-                texto: "Texto 2.1",
+                texto: "Doce",
                 afirmacao: "Afirmação 2.1"
             },
             {
-                texto: "Texto 2.2",
+                texto: "Salgado",
                 afirmacao: "Afirmação 2.2"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Para vc oque importa mais,a pz ou a razão?",
         alternativas: [
             {
-                texto: "Texto 3.1",
+                texto: "A paz ",
                 afirmacao: "Afirmação 3.1"
             },
             {
-                texto: "Texto 3.2",
+                texto: "A razão ",
                 afirmacao: "Afirmação 3.2"
             }
         ]
@@ -109,7 +109,7 @@ function respostaSelecionada(opcaoSelecionada) {
 
 //Essa função tem como objetivo exibir a narrativa final baseada nas respostas do usuário.
 function mostraResultado() {
-    caixaPerguntas.textContent = "De acordo com suas respostas, este é seu..."; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
+    caixaPerguntas.textContent = "De acordo com suas escolhas...."; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
     textoResultado.textContent = historiaFinal; //Define o conteúdo de texto do elemento textoResultado como a narrativa final acumulada.
     caixaAlternativas.textContent = ""; // Limpa o conteúdo do elemento caixaAlternativas.
 }

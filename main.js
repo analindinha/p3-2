@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Verão e Outono",
-                afirmacao: "Você é uma pessoa mais quente logo sua cor é vermelho"
+                afirmacao: "Você é uma pessoa mais exolosiva que tende a demontrar seus sentimentoscom facilidade "
             },
             {
                 texto: "Inverno e Primavera",
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Você prefere doce ou salgado?",
         alternativas: [
             {
-                texto: "Doce",
-                afirmacao: "Afirmação 2.1"
+                texto: "Salgado",
+                afirmacao: "Tem um paladar mas adulto"
             },
             {
-                texto: "Salgado",
-                afirmacao: "Afirmação 2.2"
+                texto: "Doce",
+                afirmacao: ""
             }
         ]
     },
@@ -36,16 +36,16 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A paz ",
-                afirmacao: "Afirmação 3.1"
+                afirmacao: "Já entede seus princípios"
             },
             {
                 texto: "A razão ",
-                afirmacao: "Afirmação 3.2"
+                afirmacao: "Quer estar certo acima de tudo "
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Prefere sai com roupas coloidas ou mais básicas?",
         alternativas: [
             {
                 texto: "Texto 4.1",

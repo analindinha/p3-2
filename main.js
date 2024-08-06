@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "qual estação vc prefere?",
         alternativas: [
             {
-                texto: "Texto 1.1",
+                texto: "Verão e Outono",
                 afirmacao: "Afirmação 1.1"
             },
             {
-                texto: "Texto 1.2",
+                texto: "Inverno e Primavera",
                 afirmacao: "Afirmação 1.2"
             }
         ]

@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Verão e Outono",
-                afirmacao: "Você é uma pessoa mais aberta  que tende a demontrar seus sentimentos com facilidade e respeito "
+                afirmacao: "Você é uma pessoa mais aberta  que tende a demontrar seus sentimentos com facilidade e respeito, "
             },
             {
                 texto: "Inverno e Primavera",
-                afirmacao: "Você é uma pessoa mais fria"
+                afirmacao: "Você é uma pessoa mais fria,"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Salgado",
-                afirmacao: "Tem um paladar mas adulto"
+                afirmacao: "Tem um paladar mais adulto,"
             },
             {
                 texto: "Doce",
-                afirmacao: "Tem um paladar um pouco mais infantil, junto com a mentalidade"
+                afirmacao: "Tem um paladar um pouco mais infantil, junto com a mentalidade,"
             }
         ]
     },
@@ -36,24 +36,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A paz ",
-                afirmacao: "Já entede seus princípios"
+                afirmacao: "Já entede seus princípios,"
             },
             {
                 texto: "A razão ",
-                afirmacao: "já que quer estar certo acima de tudo "
+                afirmacao: "já que quer estar certo acima de tudo, "
             }
         ]
     },
     {
-        enunciado: "Prefere sai com roupas coloidas ou mais básicas?",
+        enunciado: "Prefere sair com roupas coloidas ou mais básicas?",
         alternativas: [
             {
                 texto: "Básicas",
-                afirmacao: "Sabe que não precisa se amostrar"
+                afirmacao: "Sabe que não precisa se amostrar,"
             },
             {
                 texto: " Coloridas",
-                afirmacao: "gosta de ficar se aparecendo para os outros"
+                afirmacao: "gosta de ficar se aparecendo para os outros,"
             }
         ]
     },

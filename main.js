@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Inverno e Primavera",
-                afirmacao: "Você é uma pessoa mais fri logo sua cor é azul claro"
+                afirmacao: "Você é uma pessoa mais fria"
             }
         ]
     },
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Para vc oque importa mais,a pz ou a razão?",
+        enunciado: "Para vc oque importa mais,a paz ou a razão?",
         alternativas: [
             {
                 texto: "A paz ",
@@ -58,7 +58,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "preferesair ou ficar em casa ?",
+        enunciado: "prefere sair ou ficar em casa ?",
         alternativas: [
             {
                 texto: "Ficar em casa ",
